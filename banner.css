@@ -1,0 +1,18 @@
+.banner {
+	background-image: liner-gradient(0deg, white 0%, blue 50%) , url (../../images/backgroun.jgp);
+	color: black;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
